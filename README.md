@@ -1,7 +1,6 @@
 ### ***Olá! Me chamo Carlos👋🏾***
 
-- 🔭 Estou trabalhando no desafio de um código por semana no mínimo
-- 🌱 Eu estou estudando atualmente Python/Java
+- 🌱 Eu estou estudando atualmente HTML/Java
 - 📫 Como falar comigo: kadu2002old@gmail.com
 - 😄 Pronomes: Ele/Dele
 - 👨🏾‍💻Futuramente um dev full-stack
