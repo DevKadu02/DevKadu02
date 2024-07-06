@@ -1,4 +1,4 @@
-Olá! Me chamo Carlos👋🏾
+Olá! Me chamo Carlos👋🏾.
 
 *  🌱 Atualmente estou estudando PHP para desenvolver conexões de sites com bancos de dados.
 *  📫 Como falar comigo: kadu2002old@gmail.com
