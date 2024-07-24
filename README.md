@@ -1,9 +1,9 @@
 Olá! Me chamo Carlos👋🏾.
 
-*  🌱 Atualmente estou estudando PHP para desenvolver conexões de sites com bancos de dados e Java para back-end.
+*  🌱 Atualmente estou estudando PHP para desenvolver conexões de sites com bancos de dados e Java para back-end/desenvolvemento web.
 *  📫 Como falar comigo: kadu2002old@gmail.com.
-*  😄 Pronomes: Ele/Dele
-*  👨🏾‍💻 Futuro desenvolvedor full-stack
+*  😄 Pronomes: Ele/Dele.
+*  👨🏾‍💻 Futuro desenvolvedor full-stack.
 
 Pretendo usar este espaço para mostrar minha evolução na programação como iniciante. Espere sempre um novo código de mim, independentemente do nível de dificuldade. Volte sempre!
 
